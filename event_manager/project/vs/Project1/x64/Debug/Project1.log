@@ -1,0 +1,5 @@
+﻿  event_manager.c
+  test_main.c
+C:\zdr\event_manager\test\test_main.c(11,20): warning C4013: “event_manager_init”未定义；假设外部返回 int
+  正在生成代码...
+  Project1.vcxproj -> C:\zdr\event_manager\project\vs\Project1\x64\Debug\Project1.exe

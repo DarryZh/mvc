@@ -1,0 +1,4 @@
+﻿  __view_impl.c
+C:\zdr\components\mvc\__view_impl.c(7,9): warning C4068: 未知的杂注“weak”
+C:\zdr\components\mvc\__view_impl.c(27): warning C4716: “view_task”: 必须返回一个值
+  Project1.vcxproj -> C:\zdr\components\mvc\Project1\x64\Debug\Project1.exe

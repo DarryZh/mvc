@@ -1,1 +1,2 @@
 C:\zdr\components\mvc\Project1\x64\Debug\Project1.exe
+D:\project\mvc\Project1\x64\Debug\Project1.exe

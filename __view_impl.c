@@ -4,7 +4,7 @@
 
 #include "__view_impl.h"
 
-#pragma weak view_init
+//#pragma weak view_init
 
 void view_init(void) {
 
@@ -27,10 +27,13 @@ int view_task(view_task_handle_t *ptThis) {
 		this.chState++;
 		//break;
 	case LOOP:
+		//receive message from model
 		ret = try_receive_event_async(&event, &this.event_handle);
 		if (ret == 0) {
 			printf("[view] try %d\r\n", event);
 		}
 		break;
 	}
+
+	return 0;
 }

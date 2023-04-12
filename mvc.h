@@ -6,4 +6,6 @@
 #include "__view_impl.h"
 #include "__controll_impl.h"
 
+int mvc_raw_entry(void);
+
 #endif

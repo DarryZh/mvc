@@ -1,4 +1,12 @@
-﻿  __view_impl.c
-C:\zdr\components\mvc\__view_impl.c(7,9): warning C4068: 未知的杂注“weak”
-C:\zdr\components\mvc\__view_impl.c(27): warning C4716: “view_task”: 必须返回一个值
-  Project1.vcxproj -> C:\zdr\components\mvc\Project1\x64\Debug\Project1.exe
+﻿  event_manager.c
+  mvc.c
+  controll_templete.c
+  data_model_templete.c
+D:\project\mvc\test\data_model_templete.c(7,1): warning C4101: “a”: 未引用的局部变量
+  main.c
+  view_templete.c
+  __controll_impl.c
+  __data_model_impl.c
+  __view_impl.c
+  正在生成代码...
+  Project1.vcxproj -> D:\project\mvc\Project1\x64\Debug\Project1.exe
